@@ -1,0 +1,4 @@
+/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/CMakeFiles/rebuild_cache.dir
+/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/CMakeFiles/edit_cache.dir
+/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/CMakeFiles/main.dir
+/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/CMakeFiles/tools.dir

@@ -1,0 +1,2 @@
+Please input any number: 
+number: 45

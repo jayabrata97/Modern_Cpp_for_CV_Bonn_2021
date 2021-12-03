@@ -1,0 +1,3 @@
+Please input any number: 
+number: 78
+boring error message

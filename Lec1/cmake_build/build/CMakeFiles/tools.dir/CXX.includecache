@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/tools.hpp
+
+/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/src/tools.cpp
+tools.hpp
+/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/src/tools.hpp
+iostream
+-
+
