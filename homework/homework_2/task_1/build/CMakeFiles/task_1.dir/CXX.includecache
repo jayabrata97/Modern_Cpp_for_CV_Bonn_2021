@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/task_1.cpp
+iostream
+-
+random
+-
+cstdlib
+-
+
