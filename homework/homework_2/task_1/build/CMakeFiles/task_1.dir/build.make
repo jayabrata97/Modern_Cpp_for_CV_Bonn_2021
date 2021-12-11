@@ -60,7 +60,7 @@ include CMakeFiles/task_1.dir/flags.make
 CMakeFiles/task_1.dir/task_1.cpp.o: CMakeFiles/task_1.dir/flags.make
 CMakeFiles/task_1.dir/task_1.cpp.o: ../task_1.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task_1.dir/task_1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task_1.dir/task_1.cpp.o -c /home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/task_1.cpp
+	$(CMAKE_COMMAND) -E __run_co_compile --tidy=/usr/bin/clang-tidy --cppcheck="/usr/bin/cppcheck;--enable=all;--suppress=missingInclude;--inconclusive" --source=/home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/task_1.cpp -- /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/task_1.dir/task_1.cpp.o -c /home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/task_1.cpp
 
 CMakeFiles/task_1.dir/task_1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task_1.dir/task_1.cpp.i"
