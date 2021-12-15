@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2
+CMAKE_SOURCE_DIR = /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build
+CMAKE_BINARY_DIR = /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/ipb_arithmetic.dir/depend.make
@@ -59,29 +59,29 @@ include CMakeFiles/ipb_arithmetic.dir/flags.make
 
 CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o: CMakeFiles/ipb_arithmetic.dir/flags.make
 CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o: ../src/subtract.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o -c /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/subtract.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o -c /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/subtract.cpp
 
 CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/subtract.cpp > CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/subtract.cpp > CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.i
 
 CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/subtract.cpp -o CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/subtract.cpp -o CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.s
 
 CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o: CMakeFiles/ipb_arithmetic.dir/flags.make
 CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o: ../src/sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o -c /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o -c /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/sum.cpp
 
 CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/sum.cpp > CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/sum.cpp > CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.i
 
 CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/sum.cpp -o CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/sum.cpp -o CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.s
 
 # Object files for target ipb_arithmetic
 ipb_arithmetic_OBJECTS = \
@@ -95,7 +95,7 @@ libipb_arithmetic.a: CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o
 libipb_arithmetic.a: CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o
 libipb_arithmetic.a: CMakeFiles/ipb_arithmetic.dir/build.make
 libipb_arithmetic.a: CMakeFiles/ipb_arithmetic.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libipb_arithmetic.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libipb_arithmetic.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/ipb_arithmetic.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ipb_arithmetic.dir/link.txt --verbose=$(VERBOSE)
 
@@ -109,6 +109,6 @@ CMakeFiles/ipb_arithmetic.dir/clean:
 .PHONY : CMakeFiles/ipb_arithmetic.dir/clean
 
 CMakeFiles/ipb_arithmetic.dir/depend:
-	cd /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2 /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2 /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build/CMakeFiles/ipb_arithmetic.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2 /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2 /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build/CMakeFiles/ipb_arithmetic.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ipb_arithmetic.dir/depend
 

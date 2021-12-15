@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/./include 
+CXX_INCLUDES = -I/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/./include 
 

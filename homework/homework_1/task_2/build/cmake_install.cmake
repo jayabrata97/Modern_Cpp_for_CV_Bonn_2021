@@ -1,4 +1,4 @@
-# Install script for directory: /home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2
+# Install script for directory: /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

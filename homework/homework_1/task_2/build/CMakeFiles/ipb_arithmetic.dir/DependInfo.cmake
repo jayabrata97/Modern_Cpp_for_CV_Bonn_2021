@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/subtract.cpp" "/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build/CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o"
-  "/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/src/sum.cpp" "/home/jayabrata/Modern_C++_for_CV/homework/homework_1/task_2/build/CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o"
+  "/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/subtract.cpp" "/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build/CMakeFiles/ipb_arithmetic.dir/src/subtract.cpp.o"
+  "/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/src/sum.cpp" "/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_1/task_2/build/CMakeFiles/ipb_arithmetic.dir/src/sum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
