@@ -1,0 +1,3 @@
+/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_2/task_1/build/CMakeFiles/rebuild_cache.dir
+/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_2/task_1/build/CMakeFiles/edit_cache.dir
+/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_2/task_1/build/CMakeFiles/task_1.dir
