@@ -1,3 +1,0 @@
-/home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/build/CMakeFiles/rebuild_cache.dir
-/home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/build/CMakeFiles/edit_cache.dir
-/home/jayabrata/Modern_C++_for_CV/homework/homework_2/task_1/build/CMakeFiles/task_1.dir
