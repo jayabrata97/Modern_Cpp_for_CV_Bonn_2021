@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/./include 
+CXX_INCLUDES = -I/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build/./include 
 

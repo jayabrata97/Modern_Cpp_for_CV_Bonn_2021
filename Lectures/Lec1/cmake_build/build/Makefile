@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build
+CMAKE_SOURCE_DIR = /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build
+CMAKE_BINARY_DIR = /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/CMakeFiles /home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build/build/CMakeFiles /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build/build/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

@@ -1,4 +1,4 @@
-# Install script for directory: /home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build
+# Install script for directory: /home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/jayabrata/Modern_C++_for_CV/Lec1/cmake_build/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/Lectures/Lec1/cmake_build/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
