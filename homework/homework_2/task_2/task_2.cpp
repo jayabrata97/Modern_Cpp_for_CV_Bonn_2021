@@ -24,8 +24,8 @@ int main(int argc, char const *argv[]) {
         filename2 >> num2 >> ext2;
         std::string pre_ext1{".txt"};
         std::string pre_ext2{".png"};
-        std::cout << ext1 << std::endl;
-        std::cout << ext2 << std::endl;
+        // std::cout << ext1 << std::endl;
+        // std::cout << ext2 << std::endl;
 
         if ((ext1 == pre_ext1) && (ext2 == pre_ext1)) {
             // std::cout << "same\n";
