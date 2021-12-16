@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jayabrata/Modern_Cpp_for_CV_Bonn_2021/homework/homework_2/task_2/task_2.cpp
+iomanip
+-
+iostream
+-
+sstream
+-
+string
+-
+
