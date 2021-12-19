@@ -3,7 +3,7 @@ using std::cout;
 using std::endl;
 using std::string;
 
-string SayHello(const string &to_whom = "World") {
+string SayHello(const string& to_whom = "World") {
     return "Hello " + to_whom + "!";
 }
 
