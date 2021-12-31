@@ -15,6 +15,7 @@ int main() {
     cout << "Array size: " << data.size() << endl;
     cout << "Array's first item: " << data.front() << endl;
     cout << "Array's last item: " << data.back() << endl;
+    cout << "Size of data array: " << data.size() << endl;
 
     return 0;
 }
